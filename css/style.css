@@ -51,7 +51,7 @@ span.amp {
 }
 
 #nav {
-	float: right;
+	float: left;
 	margin: 50px 10px 0 0;
 	font-size: 1.4em;
 }
@@ -63,9 +63,9 @@ span.amp {
 }
 
 #nav li a {
-	color: #fff;
+	color: rgb(255, 255, 255);
 	text-decoration: none;
-	background: none;
+	background: rgb(0, 0, 0);
 }
 
 /*
